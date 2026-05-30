@@ -1,4 +1,4 @@
-![](banner.png)
+![](banner.jpg)
 
 # 💫 About Me:
 🔭 I’m currently working on:<br>A gamified SQL learning platform that blends crime case investigations with database problem-solving — making SQL learning interactive, story-driven, and practical. I’m also converting this concept into two research papers exploring educational gamification and real-world database learning models.<br><br>👯 I’m looking to collaborate on:<br>Projects that merge education, storytelling, and technology, especially in AI-driven learning tools, gamified platforms, or edtech research.<br><br>🤝 I’m looking for help with:<br>Data design, backend integration, and academic insights to strengthen the research and implementation aspects of the platform.<br><br>🌱 I’m currently learning:<br>Educational technology frameworks, backend development with Python, and methods for publishing high-impact academic research.<br><br>💬 Ask me about:<br>Gamified learning systems, research paper structure, SQL problem design, or how to turn an idea into a publishable project.<br><br>⚡ Fun fact:<br>I think learning should feel like a mission — every query solved should bring the same rush as cracking a case.
